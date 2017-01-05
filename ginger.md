@@ -1,4 +1,4 @@
-#Ginger Snap Recipe for Epicodus Peeps, Yo, word, and stuff.
+#Ginger Snap Cookie Recipe(because it's a snap)...duh
 
 ##Ingredients
 
